@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>COMANDOS DE SUPERPODRES<title>
+</head>
+
+<body>
+
+<h1><center>Métodos abreviados de teclado de Windows</center></h1>
+
+<ul> <!-- unordered list -->
+<li>Ctrl + C: copiar</li> <!--list item -->
+<li>Ctrl + V: pegar</li>
+<li>Ctrl + X: cortar</li>
+<li>Ctrl + Z: deshacer</li>
+<li>Ctrl + Y: rehacer</li>
+<li>Control + P: imprimir</li>
+<li>Alt + tab: cambiar entre las aplicaciones que tengas abiertas.</li>
+<li>Alt + F4: cerrar la ventana que tengas abierta.</li>
+<li>F2: modificar el nombre de un archivo que tengas seleccionado. También funciona muy bien en Excel para modificar una celda.</li>
+<li>F5: actualizar la página web o el programa (si aplica) que estás navegando.</li>
+<li>Alt + Enter: ir directo a las propiedades de un archivo seleccionado.</li>
+<li>Ctrl + F4: cerrar el documento o archivo que tengas abierto.</li>
+<li>Ctrl + A: seleccionar todo.</li>
+<li>Ctrl + D: mover a la papelera de reciclaje.</li>
+<li>Windows + L: bloquear pantalla</li>
+<li>Windows + D: directo al escritorio</li> <!--list item -->
+<li>Windows + M: minimizar ventanas</li>
+<li>Windows + flecha arriba/abajo:maximizar o minimizar la ventana en la que estás trabajando.</li>
+<li>Ctrl + Z: deshacer</li>
+<li>Ctrl + Y: rehacer</li>
+</ul>
+
+<h2>Crea un atajo personalizado para tu teclado</h2>
+<ol> <!-- ordered list -->
+<li>Busca el programa en tu explorador de archivos. (Recuerda: Windows+E y ya estás ahí).</li>
+</ol>
+
+</body>
+
+</html>
