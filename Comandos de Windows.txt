@@ -27,14 +27,16 @@
 <li>Windows + D: directo al escritorio</li> <!--list item -->
 <li>Windows + M: minimizar ventanas</li>
 <li>Windows + flecha arriba/abajo:maximizar o minimizar la ventana en la que estás trabajando.</li>
-<li>Ctrl + Z: deshacer</li>
-<li>Ctrl + Y: rehacer</li>
 </ul>
 
 <h2>Crea un atajo personalizado para tu teclado</h2>
 <ol> <!-- ordered list -->
 <li>Busca el programa en tu explorador de archivos. (Recuerda: Windows+E y ya estás ahí).</li>
+<li>Ingresa a sus propiedades (¡Exacto! Alt+Enter).<li>
+<li>Escribe tu comando personalizado en "Tecla de método abreviado".<li>
 </ol>
+
+¡Y listo! Tienes a tu alcance comandos de teclado personalizados e ideales para tu labor.
 
 </body>
 
